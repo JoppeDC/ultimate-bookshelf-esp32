@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+numpy
+opencv-python
+supervision
+inference-sdk
+google-generativeai
+python-multipart
+python-dotenv
